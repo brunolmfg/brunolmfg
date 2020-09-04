@@ -34,6 +34,7 @@ I'm happy to use many technologies.
   <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40" />
+  <img src="https://design.jboss.org/quarkus/logo/final/SVG/quarkus_icon_rgb_default.svg" alt="quarkus" width="40" height="40" />
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/rust/rust-plain.svg" alt="rust" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
